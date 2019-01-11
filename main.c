@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <win32.h>
 
 int binarySearch(int arr[], int l, int r, int x) 
 { 
