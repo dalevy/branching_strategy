@@ -81,6 +81,6 @@ void merge(int arr[], int l, int m, int r)
 int main()
 {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
+   printf("Hello, World!\n");
    return 0;
 }
