@@ -25,7 +25,6 @@ int binarySearch(int arr[], int l, int r, int x)
     return -1; 
 } 
 
-
 void merge(int arr[], int l, int m, int r) 
 { 
     int i, j, k; 
@@ -79,7 +78,6 @@ void merge(int arr[], int l, int m, int r)
     } 
 } 
   
-
 int main()
 {
    // printf() displays the string inside quotation
